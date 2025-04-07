@@ -1,0 +1,24 @@
+yaml
+   name: Generate Snake
+
+   on:
+     schedule:
+       - cron: '0 0   *'  # Executa diariamente à meia-noite
+     workflow_dispatch:  # Permite que você execute manualmente
+
+   jobs:
+     build:
+       runs-on: ubuntu-latest
+       steps:
+         - uses: Platane/snk@v3
+           with:
+             LeticiaRVeloso: ${{ github.repository_owner }}
+             outputs: |
+               dist/github-snake.svg
+               dist/github-snake-dark.svg?palette=github-dark
+               dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+         - name: Upload Snake
+           uses: actions/upload-artifact@v2
+           with:
+             name: snake
+             path: dist/
