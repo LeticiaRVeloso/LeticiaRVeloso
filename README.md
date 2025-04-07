@@ -1,4 +1,6 @@
-## Olá! Eu sou Leticia Rodrigues Veloso 👩‍💻
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Olá!+Seja+bem+vindo!👋)
+
+## Eu sou Leticia Rodrigues Veloso 👩‍💻
 
 - 💻 Analista de Dados  
 - 🧠 Estudando *Python, **SQL, **Inteligência Artificial* e *Inglês*  
