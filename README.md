@@ -46,7 +46,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaRVeloso&layout=compact&theme=radical)
 
-!snake 
 
 ---
 ### 🌐 Meu Portfólio
