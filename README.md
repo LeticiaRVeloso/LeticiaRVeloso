@@ -21,15 +21,16 @@
 
 ### 📚 Plataformas onde estudo:
 
-[![DIO](https://img.shields.io/badge/DIO-000000?style=for-the-badge&logo=github&logoColor=white)](https://www.dio.me)  
-[![DSA](https://img.shields.io/badge/Data_Science_Academy-303030?style=for-the-badge&logo=databricks&logoColor=white)](https://www.datascienceacademy.com.br)  
-[![Ada Tech](https://img.shields.io/badge/Ada_Tech-FFA500?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.adatech.com.br)  
-[![Santander Open Academy](https://img.shields.io/badge/Santander_Open_Academy-E50D2E?style=for-the-badge&logo=santander&logoColor=white)](https://www.santanderopenacademy.com)  
-[![SEDA College](https://img.shields.io/badge/SEDA_College_Online-00AEEF?style=for-the-badge&logo=bookstack&logoColor=white)](https://sedacollegeonline.com)  
-[![ENAP](https://img.shields.io/badge/ENAP-0057A8?style=for-the-badge&logo=academia&logoColor=white)](https://www.enap.gov.br)  
-[![Ninja do Excel](https://img.shields.io/badge/Ninja_do_Excel-29ABE2?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://ninjadoexcel.com.br)  
-[![FM2S](https://img.shields.io/badge/FM2S-0071CE?style=for-the-badge&logo=leanpub&logoColor=white)](https://www.fm2s.com.br)  
-[![Salesiano](https://img.shields.io/badge/Salesiano-FF0000?style=for-the-badge&logo=google-classroom&logoColor=white)](https://salesiano.br)  
+
+[![DIO](https://img.shields.io/badge/DIO-F20089?style=for-the-badge&logo=OpenAI&logoColor=white)](https://www.dio.me/)
+[![Data Science Academy](https://img.shields.io/badge/DSA-0C7BDC?style=for-the-badge&logo=GoogleAnalytics&logoColor=white)](https://www.datascienceacademy.com.br/)
+[![Ada Tech](https://img.shields.io/badge/Ada_Tech-FF6B00?style=for-the-badge&logo=Codeforces&logoColor=white)](https://ada.tech/)
+[![Santander Open Academy](https://img.shields.io/badge/Santander_Open_Academy-E60000?style=for-the-badge&logo=Santander&logoColor=white)](https://www.santanderopenacademy.com/)
+[![SEDA College Online](https://img.shields.io/badge/SEDA_College_Online-3B5998?style=for-the-badge&logo=GoogleClassroom&logoColor=white)](https://www.sedacollegeonline.com/)
+[![ENAP](https://img.shields.io/badge/ENAP-006600?style=for-the-badge&logo=Academia&logoColor=white)](https://www.enap.gov.br/)
+[![Ninja do Excel](https://img.shields.io/badge/Ninja_do_Excel-00B050?style=for-the-badge&logo=MicrosoftExcel&logoColor=white)](https://ninjadoexcel.com.br/)
+[![FM2S](https://img.shields.io/badge/FM2S-00838F?style=for-the-badge&logo=Leanpub&logoColor=white)](https://www.fm2s.com.br/)
+[![Salesiano](https://img.shields.io/badge/Salesiano-C8102E?style=for-the-badge&logo=Academia&logoColor=white)](https://salesiano.br/)
 
 ---
 
