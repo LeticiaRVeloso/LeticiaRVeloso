@@ -1,4 +1,4 @@
-## Olá! Eu sou Leticia R Veloso 👩‍💻
+## Olá! Eu sou Leticia Rodrigues Veloso 👩‍💻
 
 - 💻 Analista de Dados  
 - 🧠 Estudando *Python, **SQL, **Inteligência Artificial* e *Inglês*  
