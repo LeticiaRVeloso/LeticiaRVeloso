@@ -50,7 +50,7 @@
 ---
 ### 🌐 Meu Portfólio
 
-[![Portfólio Power BI](https://img.shields.io/badge/Portfólio_Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://sites.google.com/view/portflioleticiaveloso/in%C3%ADcio)
+[![Portfólio Power BI](https://img.shields.io/badge/Portfólio_Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://sites.google.com/view/portflioleticiaveloso/inicio)
 
 ---
 ### 📫 Vamos nos conectar?
