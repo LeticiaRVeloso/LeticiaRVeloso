@@ -44,8 +44,9 @@
 
 ### 📊 Linguagens mais usadas:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaRVeloso&layout=compact&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaRVeloso&layout=compact&theme=radical)
+](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeticiaRVeloso&theme=radical
+)
 
 ---
 ### 🌐 Meu Portfólio
