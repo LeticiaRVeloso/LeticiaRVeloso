@@ -44,10 +44,8 @@
 
 ### 📊 Linguagens mais usadas:
 
-### 📊 Linguagens mais usadas
 
 ![Top Langs](https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=LeticiaRVeloso&layout=compact&theme=radical)
-
 
 ---
 ### 🌐 Meu Portfólio
