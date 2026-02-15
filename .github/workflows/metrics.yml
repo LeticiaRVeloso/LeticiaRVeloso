@@ -1,4 +1,5 @@
 name: Metrics
+
 on:
   workflow_dispatch:
 
@@ -6,7 +7,7 @@ permissions:
   contents: write
 
 jobs:
-  github-metrics:
+  metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -14,4 +15,3 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: LeticiaRVeloso
           plugin_languages: yes
-          plugin_languages_limit: 8
